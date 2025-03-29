@@ -1,4 +1,3 @@
-# Pemantaun-cuaca
 import datetime
 from collections import defaultdict
 
